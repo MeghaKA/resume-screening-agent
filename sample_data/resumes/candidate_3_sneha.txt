@@ -1,0 +1,22 @@
+Sneha Iyer
+Machine Learning Researcher
+
+Profile:
+MSc Data Analytics graduate with hands-on experience in predictive modelling,
+explainable AI, and time-series analysis. Skilled in Python, Scikit-learn,
+and statistical analysis, with a strong interest in applied machine learning.
+
+Skills: Python, Pandas, NumPy, Scikit-learn, SQL, SHAP, LIME, Time-Series Analysis, AWS
+
+Experience:
+ML Intern, DataWorks (2024-2025)
+- Developed regression and classification models for industrial sensor data
+- Applied explainable AI techniques (SHAP, LIME) to interpret model predictions
+- Built time-series features for failure prediction tasks
+- Deployed a small model demo on AWS
+
+Education:
+MSc Data Analytics, De Montfort University (2022-2023)
+BTech Computer Science (2016-2020)
+
+Certifications: AWS Certified Cloud Practitioner

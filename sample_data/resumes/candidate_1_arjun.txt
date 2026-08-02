@@ -1,0 +1,19 @@
+Arjun Nair
+Machine Learning Engineer
+
+Profile:
+Machine learning engineer with 2 years of experience building predictive models
+in Python. Strong background in regression, classification, and ensemble methods
+such as Random Forest and XGBoost. Comfortable with SQL and data visualization.
+
+Skills: Python, Pandas, NumPy, Scikit-learn, SQL, Power BI, Git, SHAP
+
+Experience:
+Data Analyst -> ML Engineer, TechCorp (2023-Present)
+- Built classification models for customer churn prediction using Scikit-learn
+- Performed feature engineering and exploratory data analysis on large datasets
+- Used SHAP for model explainability and presented results to stakeholders
+- Collaborated with a team of 5 engineers using GitHub
+
+Education:
+BSc Computer Science, University of Kerala (2019-2022)

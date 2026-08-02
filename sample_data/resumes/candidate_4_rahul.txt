@@ -1,0 +1,17 @@
+Rahul Kumar
+Front-End Web Developer
+
+Profile:
+Front-end developer with 3 years of experience building responsive websites
+using HTML, CSS, and JavaScript. Some experience with React.
+
+Skills: HTML, CSS, JavaScript, React, Git, Figma
+
+Experience:
+Front-End Developer, WebStudio (2021-Present)
+- Built responsive UI components using React
+- Collaborated with designers to implement UI/UX designs
+- Fixed cross-browser compatibility issues
+
+Education:
+Diploma in Web Development, Kerala Polytechnic (2018-2020)

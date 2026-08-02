@@ -1,0 +1,18 @@
+Priya Menon
+Data Analyst
+
+Profile:
+Data analyst with strong Excel and SQL skills, some exposure to Python for
+basic scripting and dashboarding. Interested in transitioning into machine
+learning roles.
+
+Skills: SQL, Excel, Tableau, basic Python, PowerPoint
+
+Experience:
+Data Analyst, RetailCo (2022-Present)
+- Built dashboards in Tableau to track sales performance
+- Wrote SQL queries to extract and clean data
+- Assisted the data science team with data preparation tasks
+
+Education:
+BCom, University of Calicut (2018-2021)
